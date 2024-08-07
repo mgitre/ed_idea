@@ -1,0 +1,5 @@
+openai_key: 'key-goes-here'
+
+flask:
+  host: localhost
+  port: 5000

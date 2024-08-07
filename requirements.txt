@@ -1,0 +1,9 @@
+requests
+llama-index
+llama-inxex-core
+beautifulsoup4
+PyPDF2
+docx2txt
+Flask
+Flask-Cors
+tqdm
