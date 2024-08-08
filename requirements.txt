@@ -1,6 +1,6 @@
 requests
 llama-index
-llama-inxex-core
+llama-index-core
 beautifulsoup4
 PyPDF2
 docx2txt
