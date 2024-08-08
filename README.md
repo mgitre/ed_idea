@@ -1,4 +1,4 @@
-### LlamaIndex retreival-augmented generation demo with Department of Education IDEA policy letters
+# LlamaIndex retreival-augmented generation demo with Department of Education IDEA policy letters
 
 ## Introduction
 This repository contains an example for using LlamaIndex to generate informative, well-cited responses from a corpus of documents.
